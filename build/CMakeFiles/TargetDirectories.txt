@@ -1,0 +1,14 @@
+/home/jxz/videotranscode/build/CMakeFiles/queue.dir
+/home/jxz/videotranscode/build/CMakeFiles/demux.dir
+/home/jxz/videotranscode/build/CMakeFiles/video_decoder.dir
+/home/jxz/videotranscode/build/CMakeFiles/audio_decoder.dir
+/home/jxz/videotranscode/build/CMakeFiles/video_filter.dir
+/home/jxz/videotranscode/build/CMakeFiles/video_encoder.dir
+/home/jxz/videotranscode/build/CMakeFiles/muxer.dir
+/home/jxz/videotranscode/build/CMakeFiles/transcode.dir
+/home/jxz/videotranscode/build/CMakeFiles/edit_cache.dir
+/home/jxz/videotranscode/build/CMakeFiles/rebuild_cache.dir
+/home/jxz/videotranscode/build/CMakeFiles/list_install_components.dir
+/home/jxz/videotranscode/build/CMakeFiles/install.dir
+/home/jxz/videotranscode/build/CMakeFiles/install/local.dir
+/home/jxz/videotranscode/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libdemux.a CMakeFiles/demux.dir/src/Demux.cpp.o
+/usr/bin/ranlib lib/libdemux.a

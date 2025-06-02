@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libaudio_decoder.a CMakeFiles/audio_decoder.dir/src/AudioDecoder.cpp.o
+/usr/bin/ranlib lib/libaudio_decoder.a
